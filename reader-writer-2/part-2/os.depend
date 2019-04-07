@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1553971974 source:c:\users\amit baddhan\desktop\oss1\os\main.c
+	<stdio.h>
+	<pthread.h>
+	<semaphore.h>
+	<unistd.h>
+
