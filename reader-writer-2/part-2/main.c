@@ -56,6 +56,7 @@ if(rcount==1)
 }
 pthread_mutex_unlock(&e1);
 
+printf("|                           |                          |       Number of reader  %d      |\n",rcount);
 printf("|                           | Data read by the reader %d|                                | \n",count);
 
 Sleep(1000);
